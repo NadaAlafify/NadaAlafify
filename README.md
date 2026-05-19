@@ -3,7 +3,7 @@
 ### About Me
 - Engineering Student at Mansoura University (CCE Dept).
 - Front-end Developer & Network Engineer.
-- Passionate about **Clean Code** and manual logic building.
+- Passionate about **Clean Code** & manual logic building.
 
 ### Tech Stack
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap.
